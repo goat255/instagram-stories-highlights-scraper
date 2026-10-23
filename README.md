@@ -2,7 +2,7 @@
 
 Archive Instagram stories before they disappear, and pull every highlight reel with all its photos and videos, from any public profile. No Instagram login, no cookies, no API key.
 
-[![Watch the 45-second demo](media/poster.jpg)](media/promo.mp4)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/8BpMCvWwCeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=8BpMCvWwCeM)
 
 **[Run it on Apify →](https://apify.com/goat255/instagram-stories-highlights-scraper)**
 
