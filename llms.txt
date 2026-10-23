@@ -1,0 +1,17 @@
+# Instagram Stories & Highlights Scraper
+
+> An Apify actor that returns the current stories and all highlight reels (with every inner photo and video) of public Instagram profiles, without an Instagram login.
+
+## Docs
+
+- [Apify Store page](https://apify.com/goat255/instagram-stories-highlights-scraper): run it, prices, input form
+- [AGENTS.md](AGENTS.md): input and output fields, MCP and HTTP setup for AI agents
+- [README.md](README.md): overview, use cases and a demo video
+
+## Quick call
+
+- POST https://api.apify.com/v2/acts/goat255~instagram-stories-highlights-scraper/run-sync-get-dataset-items?token=YOUR_APIFY_TOKEN with body {"usernames": ["example_user"]}
+
+## More
+
+- [All our actors](https://apify.com/goat255)
